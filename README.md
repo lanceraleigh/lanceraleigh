@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌🏽, my name is Lance Raleigh</h1>
 <h3 align="center">Self-taught early career software engineer with experience in full stack development and a specialty in the front end. Passionate about i18n and accessibility being used to bring modern software to people around the world of all walks of life. I love tech just as much as I love world culture👨🏽‍💻 🇦🇴 🇧🇷</h3>
 
-<img align=“right” alt=“I18n” width=“400” src=“[https://miro.medium.com/max/1400/1*qRcz08TqLrLYQYezzoJG1Q.gif](https://cdn.dribbble.com/users/4143097/screenshots/9133710/media/63ecbf3046d4520d2c5e4b329ab86bb2.gif)” />
+<img align=“right” alt=“I18n” width=“400” src=“https://cdn.dribbble.com/users/4143097/screenshots/9133710/media/63ecbf3046d4520d2c5e4b329ab86bb2.gif” />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanceraleigh&label=Profile%20views&color=0e75b6&style=flat" alt="lanceraleigh" /> </p>
 
