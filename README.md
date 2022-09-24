@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 Some other projects are available [https://lanceraleigh.com](https://lanceraleigh.com)
+- 🖥 Some other projects are available [https://lanceraleigh.com](https://lanceraleigh.com)
 
-- 📫 How to reach me **lanceeldenraleigh@gmail.com**
+- 📩 How to reach me **lanceeldenraleigh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gdh6n3CQHDhx68celhNb3eO3DJKxjHje/view?usp=sharing](https://drive.google.com/file/d/1gdh6n3CQHDhx68celhNb3eO3DJKxjHje/view?usp=sharing)
+- 📄 Get my resume [https://drive.google.com/file/d/1gdh6n3CQHDhx68celhNb3eO3DJKxjHje/view?usp=sharing](https://drive.google.com/file/d/1gdh6n3CQHDhx68celhNb3eO3DJKxjHje/view?usp=sharing)
 
 - ⚡ Fun fact **I speak 4 languages 🇺🇸🇧🇷🇪🇸🇫🇷**
 
