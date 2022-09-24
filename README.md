@@ -10,7 +10,7 @@
 <a href="https://codepen.io/lanceraleigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lanceraleigh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lanceraleigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lanceraleigh" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lanceraleigh&show_icons=true&locale=en&layout=compact" alt="lanceraleigh" /></p>
+<p><img align="left" display="block" src="https://github-readme-stats.vercel.app/api/top-langs?username=lanceraleigh&show_icons=true&locale=en&layout=compact" alt="lanceraleigh" /></p>
 
 
 - 👨🏽‍💻 I’m currently working on [Lancentric Learning](https://lanceraleigh.com/lancentric)
