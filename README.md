@@ -1,4 +1,4 @@
-<h1 align="center">Hello World | 👨🏽‍💻 🌍<p align="left"> <img src="https://komarev.com/ghpvc/?username=lanceraleigh&label=Profile%20views&color=0e75b6&style=flat" alt="lanceraleigh" /> </p></h1>
+<h1 align="center">Hello World | 👨🏽‍💻 🌍<p align="right"> <img src="https://komarev.com/ghpvc/?username=lanceraleigh&label=Profile%20views&color=0e75b6&style=flat" alt="lanceraleigh" /> </p></h1>
 
 <h3 align="center" display="inline">My name's Lance. I'm a self-taught early career software engineer with experience in full stack development and a specialty in the front end. Passionate about i18n and accessibility being used to bring modern software to people around the world of all walks of life. I love tech just as much as I love world culture👨🏽‍💻 🇦🇴 🇧🇷</h3>
 
